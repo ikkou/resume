@@ -148,6 +148,8 @@
 
 ## 登壇
 
+* 2019/10/05 [xRどうでしょう祭 FESTIVAL in CEDEC+SAPPORO 2019](https://sapporo.cedec.jp/session/ss10/) モデレーター @ [CEDEC+SAPPORO 2019](https://sapporo.cedec.jp/)
+  * 関連: [SIE吉田氏を始めVR、AR、MRのキーパーソンが札幌に集結！最新技術の話題から次世代PSのVRにも触れられた“xRどうでしょう祭”【CEDEC+SAPPORO 2019】](https://www.famitsu.com/news/201910/11184785.html)
 * 2019/09/06 [WebXRの現状と実社会への応用事例](https://speakerdeck.com/ikkou/talk-about-webxr-at-cedec-2019) @ [CEDEC 2019](https://cedec.cesa.or.jp/2019/session/detail/s5ca0e78baa620)
   * 関連: [CEDEC 2019 取材レポート（3・3日目まとめ）](https://vron.jp/2019/09/06/cedec-2019-4/)
 * 2019/06/10 [What's AWE USA 2019](https://speakerdeck.com/ikkou/whats-awe-usa-2019) @ [AWE USA 2019 Recap at Mercari](https://mercaridev.connpass.com/event/129550/)
