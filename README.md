@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-諸星 一行 ( IKKOU Morohoshi )
+諸星 一行 ( IKKOU Morohoshi ) a.k.a いっこう
 
 ### Social
 
@@ -30,6 +30,7 @@
 * 研究開発組織「mercari R4D」XR チーム
 * xR Research Engineer, Manager
 * xR チームの立ち上げ、マネジメント
+* Mercari Bold Scholarship 企画・運営
 
 #### Mercari Engineering Blog
 
@@ -157,7 +158,7 @@
 * 2019/01/23 [XR(AR/VR/MR) 領域を中心とした CES 2019 の技術動向](https://speakerdeck.com/ikkou/smartphone-and-beyond-2019) @ [Smartphone and Beyond 2019 vol.1](https://sab.connpass.com/event/114695/)
 * 2019/01/21 [写真で振り返る CES 2019](https://speakerdeck.com/ikkou/look-back-on-ces-2019) @
 [Mercari CES 2019 報告会](https://connpass.com/event/112931/)
-* 2018/06/11 ネットワーク産業論 #9 @ 慶應義塾大学 SFC キャンパス
+* 2018/06/11 ネットワーク産業論 #9 講師 @ 慶應義塾大学 湘南藤沢キャンパス
 * 2018/05/21 働き方を壊す！〜もっと自由に、自分でデザインする〜 @ [“破壊”からはじめよう 〜 こわして、つくる、新しい未来。Vol.1 〜](https://mercari.connpass.com/event/86039/)
   * 関連: [なぜメルカリにスペシャリストが集まるのか？本業も副業も区別しない「R4D」の自由な働き方](https://logmi.jp/business/articles/295747)
   * 関連: [自動化か？没落か？メルカリの研究開発組織「R4D」が語る、日本の人手不足問題](https://logmi.jp/business/articles/295457)
@@ -191,3 +192,7 @@
 * 同人誌『WebXRの現状確認 2019 Spring』（技術書典6）
 * 同人誌『ぷれぜんすっ！』（技術書典6）
 * 同人誌『WebXRの現状確認 2019 Autumn』（技術書典7）
+
+---
+
+* VR学会誌 書評「ARの教科書」
