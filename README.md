@@ -23,9 +23,15 @@
 
 ## 職務経歴
 
+### 株式会社ZOZOテクノロジーズ (ZOZO Technologies, Inc.)
+
+2019/11/01 ~ present
+
+* Innovation Initiative XR Unit
+
 ### 株式会社メルカリ (Mercari, Inc.)
 
-2017/09/01 ~ present
+2017/09/01 ~ 2019/10/31
 
 * 研究開発組織「mercari R4D」XR チーム
 * xR Research Engineer, Manager
@@ -165,7 +171,7 @@
   * 関連: [なぜメルカリにスペシャリストが集まるのか？本業も副業も区別しない「R4D」の自由な働き方](https://logmi.jp/business/articles/295747)
   * 関連: [自動化か？没落か？メルカリの研究開発組織「R4D」が語る、日本の人手不足問題](https://logmi.jp/business/articles/295457)
 * 2018/05/11 行って良かった、見て良かった Laval Virtual 2018 @ [Laval Virtual 2018 Recap in Tokyo 公式報告会 - 世界で最も楽しいVRフェスティバル -](https://lavalvirtual2018.peatix.com/)
-* 2018/04/11 [写真で振り返るSXSW 2018とLaval Virtual 2018](https://speakerdeck.com/ikkou/look-back-on-the-sxsw-2018-and-laval-virtual-2018) @ [行って分かった！欧米のVR/AR最新事情〜GDC・SXSWなどの現地から〜](https://moguravr-201804.peatix.com/)
+* 2018/04/11 [写真で振り返るSXSW 2018とLaval Virtual 2018](https://speakerdeck.com/ikkou/look-back-on-the-sxsw-2018-and-laval-virtual-2018) @ [行って分かった！欧米のVR/AR最新事情〜GDC・SXSWなどの現地から〜](https://moguravr-201804.peatix.com/)
   * 関連: [VRはもはや”当たり前”になりつつある、欧米VR/ARの最新事情](https://www.moguravr.com/seminar-europe-and-america-vrar/)
 * 2018/03/29 写真で見る SXSW 2018 @ [Mercari SXSW 2018 報告会](https://mercari.connpass.com/event/82345/)
 * 2018/03/28 個人的にオススメの視聴スタイルあるいは #東雲めぐ さんによるライフスタイルの変化 @ [#東雲めぐ オンリー LT 大会 #0](https://cluster.mu/events/4fa35fed-b835-458b-958c-6e904397e264)
