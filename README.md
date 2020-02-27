@@ -13,7 +13,7 @@
 * [Qiita](https://qiita.com/ikkou)
 * [Speaker Deck](https://speakerdeck.com/ikkou)
 * [Blog](https://txt.ikkou.com/) from 2018/12
-* [Bolg](https://ikkou.jp/) until 2017/12
+* [Blog](https://ikkou.jp/) until 2017/12
 
 ### Community
 
@@ -27,7 +27,7 @@
 
 2019/11/01 ~ present
 
-* Innovation Initiative XR Unit
+* XR Specialist
 
 ### 株式会社メルカリ (Mercari, Inc.)
 
@@ -93,6 +93,8 @@
 
 ## コミュニティ活動(主催/運営)
 
+* 2019/12/17 [xR Creators Meetup #1 w/XR-Hub Cafe](https://vrtokyo.connpass.com/event/159003/)
+* 2019/12/07 [xR Tech Tokyo #18 @ ソフトバンク](https://vrtokyo.connpass.com/event/151017/)
 * 2019/09/13 [Immersive Web Meetup (WebXR & Web Music)](https://connpass.com/event/139407/)
 * 2019/08/18 [xR Tech Tokyo #17 @ メルカリ](https://vrtokyo.connpass.com/event/137007/)
 * 2019/08/08 [Meguro.es # 22 @ メルカリ][https://meguroes.connpass.com/event/134746/]
@@ -154,6 +156,7 @@
 
 ## 登壇
 
+* 2019/12/12 [The past and future of WebAR - The WebXR Device API was shipped in Chrome 79](https://speakerdeck.com/ikkou/the-past-and-future-of-webar-the-webxr-device-api-was-shipped-in-chrome-79) @ [WebAR TOKYO #01](https://webar-tokyo.connpass.com/event/156371/)
 * 2019/10/05 [xRどうでしょう祭 FESTIVAL in CEDEC+SAPPORO 2019](https://sapporo.cedec.jp/session/ss10/) モデレーター @ [CEDEC+SAPPORO 2019](https://sapporo.cedec.jp/)
   * 関連: [SIE吉田氏を始めVR、AR、MRのキーパーソンが札幌に集結！最新技術の話題から次世代PSのVRにも触れられた“xRどうでしょう祭”【CEDEC+SAPPORO 2019】](https://www.famitsu.com/news/201910/11184785.html)
 * 2019/09/06 [WebXRの現状と実社会への応用事例](https://speakerdeck.com/ikkou/talk-about-webxr-at-cedec-2019) @ [CEDEC 2019](https://cedec.cesa.or.jp/2019/session/detail/s5ca0e78baa620)
