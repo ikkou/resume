@@ -97,7 +97,7 @@
 * 2019/12/07 [xR Tech Tokyo #18 @ ソフトバンク](https://vrtokyo.connpass.com/event/151017/)
 * 2019/09/13 [Immersive Web Meetup (WebXR & Web Music)](https://connpass.com/event/139407/)
 * 2019/08/18 [xR Tech Tokyo #17 @ メルカリ](https://vrtokyo.connpass.com/event/137007/)
-* 2019/08/08 [Meguro.es # 22 @ メルカリ][https://meguroes.connpass.com/event/134746/]
+* 2019/08/08 [Meguro.es # 22 @ メルカリ](https://meguroes.connpass.com/event/134746/)
 * 2019/07/24 [Emscripten & WebAssembly night !! #8](https://emsn.connpass.com/event/136346/)
 * 2019/06/23 [xR Tech Tokyo #16 @ DMM.com](https://vrtokyo.connpass.com/event/129570/)
 * 2019/06/10 [AWE USA 2019 Recap at Mercari](https://mercaridev.connpass.com/event/129550/)
