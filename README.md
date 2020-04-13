@@ -10,8 +10,11 @@
 * [Facebook](https://www.facebook.com/morohoshi.ikkou)
 * [LinkedIn](https://www.linkedin.com/in/ikkou-morohoshi-b65577154/)
 * [GitHub](https://github.com/ikkou)
-* [Qiita](https://qiita.com/ikkou)
+* ~[Qiita](https://qiita.com/ikkou)~
+* [dev.to](https://dev.to/ikkou)
 * [Speaker Deck](https://speakerdeck.com/ikkou)
+* [note](https://note.com/ikkou) from 2020/03
+* [Podcast](https://podcasts.apple.com/jp/podcast/xr-fm/id1451069565)
 * [Blog](https://txt.ikkou.com/) from 2018/12
 * [Blog](https://ikkou.jp/) until 2017/12
 
@@ -90,6 +93,11 @@
 #### 業務内容
 
 * Web Front-end Engineer
+
+## 個人としての露出
+
+* 2020/04/13 [AppleとGoogleが手を組んだ。感染拡大阻止に「スマホ技術」ができること](https://www.watch.impress.co.jp/docs/series/nishida/1246569.html)
+  * ARKit@iOS/iPadOS, ARCore@Android 両対応 Keep Distance Ruler Web 派生版
 
 ## コミュニティ活動(主催/運営)
 
@@ -197,6 +205,7 @@
 
 ## 執筆
 
+* 同人誌『ZOZO TECH BOOK VOL.1』 第2章 WebXRの現状確認 2020 Spring （技術書典 応援祭）
 * 同人誌『A-FrameではじめるWebVR【導入編】』（技術書典2）
 * 同人誌『WebVR/ARのはじめかた』（技術書典4）
 * 同人誌『WebXRの現状確認 2018 Autumn』（技術書典5）
