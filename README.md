@@ -192,6 +192,7 @@
 * 2017/10/28 [WebVRの現状確認](https://speakerdeck.com/ikkou/webvr-now-2017) @ Japan VR Fest 開発者会 2017
   * 関連: [2017 JapanVR Fest開発者会 #JVRFest](https://togetter.com/li/1165423)
 * 2017/09/15 [WebVR with Windows Mixed Reality](https://speakerdeck.com/ikkou/webvr-with-windows-mixed-reality) @ [ToKyoto.js ― Kyoto.js in Tokyo](https://kyotojs.connpass.com/event/64310/)
+* 2017/06/10 [本格 WebGL 基礎スクール](https://webgl.souhonzan.org/entry/?v=0893) プラスワン講義「ブラウザでここまで出来る！A-FrameではじめるWebVR」
 * 2017/02/07 [Introducing WebAR using awe.js](https://speakerdeck.com/ikkou/introducing-webar-using-awe-dot-js) @ [Meguro.es #8 @ アカツキ](https://meguroes.connpass.com/event/47839/)
 * 2016/11/28 [Introducing awesome-aframe](https://speakerdeck.com/ikkou/introducing-awesome-aframe) @ [TOKYO A-Framer Meetup](https://connpass.com/event/43707/)
 * 2016/10/29 WebVRの現状確認 @ JapanVR Fest（旧オキュフェス）開発者会 皆の10分を繋げてVRの未来を作る
