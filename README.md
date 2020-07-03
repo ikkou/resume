@@ -20,7 +20,7 @@
 
 ### Community
 
-* Founder & Organizer of xR Tech Tokyo
+* Founder & Organizer of `xR Tech Tokyo` and `WebXR Tech Tokyo`
 * Founder of Meguro.es
 * Founder of emscripten night !!
 
@@ -30,7 +30,8 @@
 
 2019/11/01 ~ present
 
-* XR Specialist
+* XR Evangelist
+* オンラインイベント ライブ配信エンジニア
 
 ### 株式会社メルカリ (Mercari, Inc.)
 
@@ -101,6 +102,8 @@
 
 ## コミュニティ活動(主催/運営)
 
+* 2020/06/29 [WebXR Tech Tokyo #1 @ cluster](https://vrtokyo.connpass.com/event/178319/)
+* 2020/04/27 [WebXR Tech Tokyo #0 @ cluster](https://vrtokyo.connpass.com/event/171859/)
 * 2019/12/17 [xR Creators Meetup #1 w/XR-Hub Cafe](https://vrtokyo.connpass.com/event/159003/)
 * 2019/12/07 [xR Tech Tokyo #18 @ ソフトバンク](https://vrtokyo.connpass.com/event/151017/)
 * 2019/09/13 [Immersive Web Meetup (WebXR & Web Music)](https://connpass.com/event/139407/)
@@ -164,6 +167,11 @@
 
 ## 登壇
 
+* 2020/06/18 [TechFeed Summit](https://www.youtube.com/watch?v=71kvUU6_UhQ)
+  * 関連: [TechFeed Summit#1 動画公開🎉及川卓也×VRエキスパートのパネルディスカッション！週末のおともに！](https://medium.com/@techfeed/techfeed-summit-1-closed-1b1f8a26569d)
+* 2020/06/17 [これからの顧客接点を考える、XR(VR/AR/MR)ニーズの高まりからみるユーザーインサイトとデジタル技術の関係](https://techplay.jp/event/781374)
+* 2020/04/30 [【解説】第2章 WebXRの現状確認 2020 Spring](https://speakerdeck.com/ikkou/zozotechbook1-ch02-webxr) @ [#技術書典 頒布本「ZOZO TECH BOOK」解説会 Vol.2](https://zozotech-inc.connpass.com/event/173609/)
+* 2020/04/13 [学生起業家がXRで起業するために知っておきたいこと](https://svmeetup.connpass.com/event/173153/)
 * 2019/12/12 [The past and future of WebAR - The WebXR Device API was shipped in Chrome 79](https://speakerdeck.com/ikkou/the-past-and-future-of-webar-the-webxr-device-api-was-shipped-in-chrome-79) @ [WebAR TOKYO #01](https://webar-tokyo.connpass.com/event/156371/)
 * 2019/10/05 [xRどうでしょう祭 FESTIVAL in CEDEC+SAPPORO 2019](https://sapporo.cedec.jp/session/ss10/) モデレーター @ [CEDEC+SAPPORO 2019](https://sapporo.cedec.jp/)
   * 関連: [SIE吉田氏を始めVR、AR、MRのキーパーソンが札幌に集結！最新技術の話題から次世代PSのVRにも触れられた“xRどうでしょう祭”【CEDEC+SAPPORO 2019】](https://www.famitsu.com/news/201910/11184785.html)
@@ -186,7 +194,7 @@
   * 関連: [VRはもはや”当たり前”になりつつある、欧米VR/ARの最新事情](https://www.moguravr.com/seminar-europe-and-america-vrar/)
 * 2018/03/29 写真で見る SXSW 2018 @ [Mercari SXSW 2018 報告会](https://mercari.connpass.com/event/82345/)
 * 2018/03/28 個人的にオススメの視聴スタイルあるいは #東雲めぐ さんによるライフスタイルの変化 @ [#東雲めぐ オンリー LT 大会 #0](https://cluster.mu/events/4fa35fed-b835-458b-958c-6e904397e264)
-* 2018/03/24 SXSWとVRDCに行ってきた話あるいは米国でも東雲めぐさんの放送をリアルタイムで観ていた話 @ ヴァーチャルLT会
+* 2018/03/24 SXSWとVRDCに行ってきた話あるいは米国でも東雲めぐさんの放送をリアルタイムで観ていた話 @ [ヴァーチャルLT会](https://cluster.mu/e/421dbdfc-32c0-11ea-ba92-0ef3638656a6)
 * 2018/03/19 Webの未来を語ろう 2018
   * 関連: [VR、AR、MR……各領域のプロフェッショナルが語るxR技術の最先端──Webの未来を語ろう 2018](https://html5experts.jp/tokutoku393/25205/)
 * 2017/10/28 [WebVRの現状確認](https://speakerdeck.com/ikkou/webvr-now-2017) @ Japan VR Fest 開発者会 2017
