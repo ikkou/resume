@@ -21,6 +21,7 @@
 ### Community
 
 * Founder & Organizer of `xR Tech Tokyo` and `WebXR Tech Tokyo`
+* Core member of XR Kaigi
 * Founder of Meguro.es
 * Founder of emscripten night !!
 
@@ -104,6 +105,7 @@
 
 * 2020/06/29 [WebXR Tech Tokyo #1 @ cluster](https://vrtokyo.connpass.com/event/178319/)
 * 2020/04/27 [WebXR Tech Tokyo #0 @ cluster](https://vrtokyo.connpass.com/event/171859/)
+* 2020/12/03-04 [XR Kaigi 2019](https://xrkaigi.com/)
 * 2019/12/17 [xR Creators Meetup #1 w/XR-Hub Cafe](https://vrtokyo.connpass.com/event/159003/)
 * 2019/12/07 [xR Tech Tokyo #18 @ ソフトバンク](https://vrtokyo.connpass.com/event/151017/)
 * 2019/09/13 [Immersive Web Meetup (WebXR & Web Music)](https://connpass.com/event/139407/)
