@@ -153,6 +153,7 @@
 * 2017/02/22 [emscripten night !! #3](https://emsn.connpass.com/event/48100/)
 * 2017/01/28 [VR Tech Tokyo #5 @ アカツキ](https://vrtokyo.connpass.com/event/45922/)
 * 2017/01/15 [VR Funhouse MODthon](https://vrtokyo.connpass.com/event/46568/)
+* 2017/01/14 [シン・Web VRとか文化祭](https://html5j-webplat.connpass.com/event/47239/)
 * 2016/12/21 [emscripten night !! #2](https://emsn.connpass.com/event/42375/)
 * 2016/12/20 [VR Funhouse MODthon 勉強会](https://vrtokyo.connpass.com/event/46509/)
 * 2016/11/29 [TOKYO A-Framer Meetup](https://connpass.com/event/43707/)
@@ -216,13 +217,13 @@
 
 ## 執筆
 
-* 同人誌『ZOZO TECH BOOK VOL.1』 第2章 WebXRの現状確認 2020 Spring （技術書典 応援祭）
-* 同人誌『A-FrameではじめるWebVR【導入編】』（技術書典2）
-* 同人誌『WebVR/ARのはじめかた』（技術書典4）
-* 同人誌『WebXRの現状確認 2018 Autumn』（技術書典5）
-* 同人誌『WebXRの現状確認 2019 Spring』（技術書典6）
-* 同人誌『ぷれぜんすっ！』（技術書典6）
-* 同人誌『WebXRの現状確認 2019 Autumn』（技術書典7）
+* 2020/03/07 技術同人誌『ZOZO TECH BOOK VOL.1』 第2章 WebXRの現状確認 2020 Spring （技術書典 応援祭）
+* 2019/09/22 技術同人誌『WebXRの現状確認 2019 Autumn』（技術書典7）
+* 2019/04/14 技術同人誌『ぷれぜんすっ！』（技術書典6）
+* 2019/04/14 技術同人誌『WebXRの現状確認 2019 Spring』（技術書典6）
+* 2018/10/08 技術同人誌『WebXRの現状確認 2018 Autumn』（技術書典5）
+* 2018/04/22 技術同人誌『WebVR/ARのはじめかた』（技術書典4）
+* 2017/04/09 技術同人誌『A-FrameではじめるWebVR【導入編】』（技術書典2）
 
 ---
 
