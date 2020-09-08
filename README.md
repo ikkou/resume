@@ -34,6 +34,16 @@
 * XR Evangelist
 * オンラインイベント ライブ配信エンジニア
 
+#### ZOZO TECH BLOG
+
+* 2020/05/26 [バーチャルオフィスを支える技術 ── clusterを用いたマルチプラットフォーム3Dオフィス見学会](https://techblog.zozo.com/entry/virtual-office-technology)
+* 2020/01/24 [CES 2020参加レポート: 現地参加3年目の目線で視た #CES2020](https://techblog.zozo.com/entry/ces-2020)
+
+#### 外部露出
+
+* 2020/09/01 [月刊ブレーン2020年10月号 No.723](https://www.sendenkaigi.com/books/back-number-brain/detail.php?id=23365) 特集【バーチャル技術で進化 クリエイティブ表現と「体験」の場】
+* 2020/07/16 読売新聞 夕刊 サイエンス&エコロジー バーチャルオフィス見学会の事例掲載
+
 ### 株式会社メルカリ (Mercari, Inc.)
 
 2017/09/01 ~ 2019/10/31
@@ -103,6 +113,8 @@
 
 ## コミュニティ活動(主催/運営)
 
+* 2020/08/31 [xR Developers Community Conference](https://vrtokyo.connpass.com/event/185043/)
+* 2020/08/24 [WebXR Tech Tokyo #2 @ cluster](https://vrtokyo.connpass.com/event/181759/)
 * 2020/06/29 [WebXR Tech Tokyo #1 @ cluster](https://vrtokyo.connpass.com/event/178319/)
 * 2020/06/19 [#ゆるxR VRとかARとかMRとかxRのあれこれについてゆるくおしゃべりする会](https://www.youtube.com/watch?v=2JvQBIia3Q4)
 * 2020/04/27 [WebXR Tech Tokyo #0 @ cluster](https://vrtokyo.connpass.com/event/171859/)
@@ -171,6 +183,7 @@
 
 ## 登壇
 
+* 2020/09/03 [xR.fmを通して見た近年のxR業界の潮流とミライ](https://speakerdeck.com/ikkou/trends-and-mirai-in-the-xr-industry-in-recent-years-as-seen-through-xr-dot-fm) @ [CEDEC 2020](https://cedec.cesa.or.jp/2020/)
 * 2020/06/18 [TechFeed Summit](https://www.youtube.com/watch?v=71kvUU6_UhQ)
   * 関連: [TechFeed Summit#1 動画公開🎉及川卓也×VRエキスパートのパネルディスカッション！週末のおともに！](https://medium.com/@techfeed/techfeed-summit-1-closed-1b1f8a26569d)
 * 2020/06/17 [これからの顧客接点を考える、XR(VR/AR/MR)ニーズの高まりからみるユーザーインサイトとデジタル技術の関係](https://techplay.jp/event/781374)
