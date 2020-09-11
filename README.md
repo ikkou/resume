@@ -42,6 +42,8 @@
 #### 外部露出
 
 * 2020/09/01 [月刊ブレーン2020年10月号 No.723](https://www.sendenkaigi.com/books/back-number-brain/detail.php?id=23365) 特集【バーチャル技術で進化 クリエイティブ表現と「体験」の場】
+  * [新たな接点としてのバーチャルオフィスの可能性 | ブレーンデジタル版](https://mag.sendenkaigi.com/brain/202010/evolution-by-virtual-technology/019634.php)
+  * [あなたにとっての〇〇の秋を教えてください。 | ブレーンデジタル版](https://mag.sendenkaigi.com/brain/202010/question/019602.php)
 * 2020/07/16 読売新聞 夕刊 サイエンス&エコロジー バーチャルオフィス見学会の事例掲載
 
 ### 株式会社メルカリ (Mercari, Inc.)
