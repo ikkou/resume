@@ -32,12 +32,16 @@
 2019/11/01 ~ present
 
 * XR Evangelist
-* オンラインイベント ライブ配信エンジニア
+* ライブ配信エンジニア
 
 #### ZOZO TECH BLOG
 
 * 2020/05/26 [バーチャルオフィスを支える技術 ── clusterを用いたマルチプラットフォーム3Dオフィス見学会](https://techblog.zozo.com/entry/virtual-office-technology)
 * 2020/01/24 [CES 2020参加レポート: 現地参加3年目の目線で視た #CES2020](https://techblog.zozo.com/entry/ces-2020)
+
+### COMPANY BLOG
+
+* [【イベントレポート】バーチャル空間にオフィスを再現。「ZOZOテクノロジーズバーチャルオフィス見学会」を開催しました！](https://techcorp.zozo.com/entry/20200610_virtualoffice)
 
 #### 外部露出
 
