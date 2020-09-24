@@ -189,6 +189,8 @@
 
 ## 登壇
 
+* 2020/09/20 [iOSではじめるWebAR](https://speakerdeck.com/ikkou/webar-in-ios) @ [iOSDC JAPAN 2020](https://iosdc.jp/2020/)
+* 2020/09/18 [ブラウザオーバーVRとサービス](http://conference.vrsj.org/ac2020/program/doc/3A2_PR0192.pdf) @ [第25回日本バーチャルリアリティ学会大会](http://conference.vrsj.org/ac2020/index.html)
 * 2020/09/03 [xR.fmを通して見た近年のxR業界の潮流とミライ](https://speakerdeck.com/ikkou/trends-and-mirai-in-the-xr-industry-in-recent-years-as-seen-through-xr-dot-fm) @ [CEDEC 2020](https://cedec.cesa.or.jp/2020/)
 * 2020/06/18 [TechFeed Summit](https://www.youtube.com/watch?v=71kvUU6_UhQ)
   * 関連: [TechFeed Summit#1 動画公開🎉及川卓也×VRエキスパートのパネルディスカッション！週末のおともに！](https://medium.com/@techfeed/techfeed-summit-1-closed-1b1f8a26569d)
