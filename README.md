@@ -9,9 +9,11 @@
 * [Twitter](https://twitter.com/ikkou)
 * [Facebook](https://www.facebook.com/morohoshi.ikkou)
 * [LinkedIn](https://www.linkedin.com/in/ikkou-morohoshi-b65577154/)
+* [Wantedly](https://www.wantedly.com/id/ikkou)
 * [GitHub](https://github.com/ikkou)
 * ~Qiita~ (deleted)
 * [dev.to](https://dev.to/ikkou)
+* [Zenn](https://zenn.dev/ikkou)
 * [Speaker Deck](https://speakerdeck.com/ikkou)
 * [note](https://note.com/ikkou) since 2020/03
 * [Podcast xR.fm](https://podcasts.apple.com/jp/podcast/xr-fm/id1451069565) since 2019/01
@@ -20,6 +22,7 @@
 
 ### Community
 
+* 2021-2022 Microsoft MVP for Windows Development (Mixed Reality)
 * Founder & Organizer of `xR Tech Tokyo` and `WebXR Tech Tokyo`
 * Core member of XR Kaigi
 * Founder of Meguro.es
