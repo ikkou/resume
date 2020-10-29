@@ -122,6 +122,7 @@
 
 ## コミュニティ活動(主催/運営)
 
+* 2020/10/28 [WebXR Tech Tokyo #3 @ cluster](https://vrtokyo.connpass.com/event/189470/)
 * 2020/08/31 [xR Developers Community Conference](https://vrtokyo.connpass.com/event/185043/)
 * 2020/08/24 [WebXR Tech Tokyo #2 @ cluster](https://vrtokyo.connpass.com/event/181759/)
 * 2020/06/29 [WebXR Tech Tokyo #1 @ cluster](https://vrtokyo.connpass.com/event/178319/)
@@ -192,6 +193,7 @@
 
 ## 登壇
 
+* 2020/10/28 Recent Topics in WebXR @ [WebXR Tech Tokyo #3 @ cluster](https://vrtokyo.connpass.com/event/189470/)
 * 2020/09/20 [iOSではじめるWebAR](https://speakerdeck.com/ikkou/webar-in-ios) @ [iOSDC JAPAN 2020](https://iosdc.jp/2020/)
 * 2020/09/18 [ブラウザオーバーVRとサービス](http://conference.vrsj.org/ac2020/program/doc/3A2_PR0192.pdf) @ [第25回日本バーチャルリアリティ学会大会](http://conference.vrsj.org/ac2020/index.html)
 * 2020/09/03 [xR.fmを通して見た近年のxR業界の潮流とミライ](https://speakerdeck.com/ikkou/trends-and-mirai-in-the-xr-industry-in-recent-years-as-seen-through-xr-dot-fm) @ [CEDEC 2020](https://cedec.cesa.or.jp/2020/)
