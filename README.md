@@ -4,6 +4,8 @@
 
 諸星 一行 ( IKKOU Morohoshi ) a.k.a いっこう
 
+
+
 ### Social
 
 * [Twitter](https://twitter.com/ikkou)
@@ -193,15 +195,16 @@
 
 ## 登壇
 
-* 2020/10/28 Recent Topics in WebXR @ [WebXR Tech Tokyo #3 @ cluster](https://vrtokyo.connpass.com/event/189470/)
-* 2020/09/20 [iOSではじめるWebAR](https://speakerdeck.com/ikkou/webar-in-ios) @ [iOSDC JAPAN 2020](https://iosdc.jp/2020/)
-* 2020/09/18 [ブラウザオーバーVRとサービス](http://conference.vrsj.org/ac2020/program/doc/3A2_PR0192.pdf) @ [第25回日本バーチャルリアリティ学会大会](http://conference.vrsj.org/ac2020/index.html)
-* 2020/09/03 [xR.fmを通して見た近年のxR業界の潮流とミライ](https://speakerdeck.com/ikkou/trends-and-mirai-in-the-xr-industry-in-recent-years-as-seen-through-xr-dot-fm) @ [CEDEC 2020](https://cedec.cesa.or.jp/2020/)
-* 2020/06/18 [TechFeed Summit](https://www.youtube.com/watch?v=71kvUU6_UhQ)
+* 2020/12/09 Online: [もぐラジオ特別編〜XR Kaigiの見どころを紹介しながら2020年のXR業界を語る！〜](https://xrkaigi.com/2020/session/cf46908wq124.html) @ [XR Kaigi 2020](https://xrkaigi.com/2020/)
+* 2020/10/28 Online: Recent Topics in WebXR @ [WebXR Tech Tokyo #3 @ cluster](https://vrtokyo.connpass.com/event/189470/)
+* 2020/09/20 Online: [iOSではじめるWebAR](https://speakerdeck.com/ikkou/webar-in-ios) @ [iOSDC JAPAN 2020](https://iosdc.jp/2020/)
+* 2020/09/18 Online: [ブラウザオーバーVRとサービス](http://conference.vrsj.org/ac2020/program/doc/3A2_PR0192.pdf) @ [第25回日本バーチャルリアリティ学会大会](http://conference.vrsj.org/ac2020/index.html)
+* 2020/09/03 Online: [xR.fmを通して見た近年のxR業界の潮流とミライ](https://speakerdeck.com/ikkou/trends-and-mirai-in-the-xr-industry-in-recent-years-as-seen-through-xr-dot-fm) @ [CEDEC 2020](https://cedec.cesa.or.jp/2020/)
+* 2020/06/18 Online: [TechFeed Summit](https://www.youtube.com/watch?v=71kvUU6_UhQ)
   * 関連: [TechFeed Summit#1 動画公開🎉及川卓也×VRエキスパートのパネルディスカッション！週末のおともに！](https://medium.com/@techfeed/techfeed-summit-1-closed-1b1f8a26569d)
-* 2020/06/17 [これからの顧客接点を考える、XR(VR/AR/MR)ニーズの高まりからみるユーザーインサイトとデジタル技術の関係](https://techplay.jp/event/781374)
-* 2020/04/30 [【解説】第2章 WebXRの現状確認 2020 Spring](https://speakerdeck.com/ikkou/zozotechbook1-ch02-webxr) @ [#技術書典 頒布本「ZOZO TECH BOOK」解説会 Vol.2](https://zozotech-inc.connpass.com/event/173609/)
-* 2020/04/13 [学生起業家がXRで起業するために知っておきたいこと](https://svmeetup.connpass.com/event/173153/)
+* 2020/06/17 Online: [これからの顧客接点を考える、XR(VR/AR/MR)ニーズの高まりからみるユーザーインサイトとデジタル技術の関係](https://techplay.jp/event/781374)
+* 2020/04/30 Online: [【解説】第2章 WebXRの現状確認 2020 Spring](https://speakerdeck.com/ikkou/zozotechbook1-ch02-webxr) @ [#技術書典 頒布本「ZOZO TECH BOOK」解説会 Vol.2](https://zozotech-inc.connpass.com/event/173609/)
+* 2020/04/13 Online: [学生起業家がXRで起業するために知っておきたいこと](https://svmeetup.connpass.com/event/173153/)
 * 2019/12/12 [The past and future of WebAR - The WebXR Device API was shipped in Chrome 79](https://speakerdeck.com/ikkou/the-past-and-future-of-webar-the-webxr-device-api-was-shipped-in-chrome-79) @ [WebAR TOKYO #01](https://webar-tokyo.connpass.com/event/156371/)
 * 2019/10/05 [xRどうでしょう祭 FESTIVAL in CEDEC+SAPPORO 2019](https://sapporo.cedec.jp/session/ss10/) モデレーター @ [CEDEC+SAPPORO 2019](https://sapporo.cedec.jp/)
   * 関連: [SIE吉田氏を始めVR、AR、MRのキーパーソンが札幌に集結！最新技術の話題から次世代PSのVRにも触れられた“xRどうでしょう祭”【CEDEC+SAPPORO 2019】](https://www.famitsu.com/news/201910/11184785.html)
