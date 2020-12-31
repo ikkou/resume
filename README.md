@@ -205,6 +205,7 @@
 * 2020/06/17 Online: [これからの顧客接点を考える、XR(VR/AR/MR)ニーズの高まりからみるユーザーインサイトとデジタル技術の関係](https://techplay.jp/event/781374)
 * 2020/04/30 Online: [【解説】第2章 WebXRの現状確認 2020 Spring](https://speakerdeck.com/ikkou/zozotechbook1-ch02-webxr) @ [#技術書典 頒布本「ZOZO TECH BOOK」解説会 Vol.2](https://zozotech-inc.connpass.com/event/173609/)
 * 2020/04/13 Online: [学生起業家がXRで起業するために知っておきたいこと](https://svmeetup.connpass.com/event/173153/)
+* 2020/01/16 [AR/VR/MR最新動向がわかる CES2020報告会](https://ces2020-txm32.peatix.com/)
 * 2019/12/12 [The past and future of WebAR - The WebXR Device API was shipped in Chrome 79](https://speakerdeck.com/ikkou/the-past-and-future-of-webar-the-webxr-device-api-was-shipped-in-chrome-79) @ [WebAR TOKYO #01](https://webar-tokyo.connpass.com/event/156371/)
 * 2019/10/05 [xRどうでしょう祭 FESTIVAL in CEDEC+SAPPORO 2019](https://sapporo.cedec.jp/session/ss10/) モデレーター @ [CEDEC+SAPPORO 2019](https://sapporo.cedec.jp/)
   * 関連: [SIE吉田氏を始めVR、AR、MRのキーパーソンが札幌に集結！最新技術の話題から次世代PSのVRにも触れられた“xRどうでしょう祭”【CEDEC+SAPPORO 2019】](https://www.famitsu.com/news/201910/11184785.html)
