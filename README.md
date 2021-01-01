@@ -4,8 +4,6 @@
 
 諸星 一行 ( IKKOU Morohoshi ) a.k.a いっこう
 
-
-
 ### Social
 
 * [Twitter](https://twitter.com/ikkou)
@@ -22,7 +20,7 @@
 * [Blog](https://txt.ikkou.com/) since 2018/12
 * [Blog](https://ikkou.jp/) until 2017/12
 
-### Community
+### Role
 
 * 2021-2022 Microsoft MVP for Windows Development (Mixed Reality)
 * Founder & Organizer of `xR Tech Tokyo` and `WebXR Tech Tokyo`
