@@ -44,7 +44,8 @@
 
 #### COMPANY BLOG
 
-* [【イベントレポート】バーチャル空間にオフィスを再現。「ZOZOテクノロジーズバーチャルオフィス見学会」を開催しました！](https://techcorp.zozo.com/entry/20200610_virtualoffice)
+* 2021/02/15 [ZOZOテクノロジーズMicrosoft MVP受賞エンジニア2名に聞く、受賞の裏側。 〜2人はいかにして受賞をしたのか〜](https://technote.zozo.com/n/n4b85b9f89c94)
+* 2020/06/10 [【イベントレポート】バーチャル空間にオフィスを再現。「ZOZOテクノロジーズバーチャルオフィス見学会」を開催しました！](https://techcorp.zozo.com/entry/20200610_virtualoffice)
 
 #### 外部露出
 
@@ -122,6 +123,7 @@
 
 ## コミュニティ活動(主催/運営)
 
+* 2021/01/28 [WebXR Tech Tokyo #4 @ cluster](https://vrtokyo.connpass.com/event/198899/)
 * 2020/10/28 [WebXR Tech Tokyo #3 @ cluster](https://vrtokyo.connpass.com/event/189470/)
 * 2020/08/31 [xR Developers Community Conference](https://vrtokyo.connpass.com/event/185043/)
 * 2020/08/24 [WebXR Tech Tokyo #2 @ cluster](https://vrtokyo.connpass.com/event/181759/)
