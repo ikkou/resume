@@ -123,7 +123,9 @@
 
 ## コミュニティ活動(主催/運営)
 
+* 2021/03/23 [WebXR Tech Tokyo #5 @ cluster](https://vrtokyo.connpass.com/event/204853/)
 * 2021/01/28 [WebXR Tech Tokyo #4 @ cluster](https://vrtokyo.connpass.com/event/198899/)
+* 2020/12/08-10 [XR Kaigi 2020](https://xrkaigi.com/2020/)
 * 2020/10/28 [WebXR Tech Tokyo #3 @ cluster](https://vrtokyo.connpass.com/event/189470/)
 * 2020/08/31 [xR Developers Community Conference](https://vrtokyo.connpass.com/event/185043/)
 * 2020/08/24 [WebXR Tech Tokyo #2 @ cluster](https://vrtokyo.connpass.com/event/181759/)
@@ -131,7 +133,7 @@
 * 2020/06/19 [#ゆるxR VRとかARとかMRとかxRのあれこれについてゆるくおしゃべりする会](https://www.youtube.com/watch?v=2JvQBIia3Q4)
 * 2020/04/27 [WebXR Tech Tokyo #0 @ cluster](https://vrtokyo.connpass.com/event/171859/)
 * 2019/12/17 [xR Creators Meetup #1 w/XR-Hub Cafe](https://vrtokyo.connpass.com/event/159003/)
-* 2019/12/03-04 [XR Kaigi 2019](https://xrkaigi.com/)
+* 2019/12/03-04 [XR Kaigi 2019](https://xrkaigi.com/2019/)
 * 2019/12/07 [xR Tech Tokyo #18 @ ソフトバンク](https://vrtokyo.connpass.com/event/151017/)
 * 2019/09/13 [Immersive Web Meetup (WebXR & Web Music)](https://connpass.com/event/139407/)
 * 2019/08/18 [xR Tech Tokyo #17 @ メルカリ](https://vrtokyo.connpass.com/event/137007/)
