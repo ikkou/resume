@@ -197,6 +197,7 @@
 
 ## 登壇
 
+* 2021/01/18 Online: [Future Tech Meetup #3「CES2021から見るXR業界の展望」](https://spwn.jp/events/21011819-Mogura)
 * 2020/12/09 Online: [もぐラジオ特別編〜XR Kaigiの見どころを紹介しながら2020年のXR業界を語る！〜](https://xrkaigi.com/2020/session/cf46908wq124.html) @ [XR Kaigi 2020](https://xrkaigi.com/2020/)
 * 2020/10/28 Online: Recent Topics in WebXR @ [WebXR Tech Tokyo #3 @ cluster](https://vrtokyo.connpass.com/event/189470/)
 * 2020/09/20 Online: [iOSではじめるWebAR](https://speakerdeck.com/ikkou/webar-in-ios) @ [iOSDC JAPAN 2020](https://iosdc.jp/2020/)
