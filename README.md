@@ -123,6 +123,7 @@
 
 ## コミュニティ活動(主催/運営)
 
+* 2021/05/25 [WebXR Tech Tokyo #6 @ cluster](https://vrtokyo.connpass.com/event/211029/)
 * 2021/03/23 [WebXR Tech Tokyo #5 @ cluster](https://vrtokyo.connpass.com/event/204853/)
 * 2021/01/28 [WebXR Tech Tokyo #4 @ cluster](https://vrtokyo.connpass.com/event/198899/)
 * 2020/12/08-10 [XR Kaigi 2020](https://xrkaigi.com/2020/)
@@ -197,6 +198,7 @@
 
 ## 登壇
 
+* 2021/05/25 Online: [Recent Feature Topics on WebXR - 2021-05-24](https://speakerdeck.com/ikkou/recent-feature-topics-on-webxr-2021-05-24) @ [WebXR Tech Tokyo #6 @ cluster](https://vrtokyo.connpass.com/event/211029/)
 * 2021/03/05 Online: XR × ファッションビジネスの可能性 @ [CGWORLD デザインビズカンファレンス 2021春](https://cgworld.jp/special/cgwviz2021/spring/schedule/zozo-technologies-inc/)
 * 2021/01/18 Online: [Future Tech Meetup #3「CES2021から見るXR業界の展望」](https://spwn.jp/events/21011819-Mogura)
 * 2020/12/09 Online: [もぐラジオ特別編〜XR Kaigiの見どころを紹介しながら2020年のXR業界を語る！〜](https://xrkaigi.com/2020/session/cf46908wq124.html) @ [XR Kaigi 2020](https://xrkaigi.com/2020/)
