@@ -30,11 +30,20 @@
 
 ## 職務経歴
 
+### 株式会社ZOZO (ZOZO, Inc.)
+
+2021/10/01 ~ present
+
+* XR Specialist
+* ライブ配信エンジニア
+
 ### 株式会社ZOZOテクノロジーズ (ZOZO Technologies, Inc.)
 
-2019/11/01 ~ present
+2019/11/01 ~ 2021/09/30
 
-* XR Evangelist
+[株式会社ZOZOテクノロジーズはZOZOグループ組織再編により株式会社ZOZOに吸収合併いたしました。](https://tech.zozo.com/)
+
+* XR Specialist
 * ライブ配信エンジニア
 
 #### ZOZO TECH BLOG
