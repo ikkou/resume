@@ -49,6 +49,7 @@
 
 #### 外部露出
 
+* 2021/08/29 [コロナ禍でウェブのXR体験のニーズが急増―「WebXR」を用いたさまざまな事例の紹介―川越は町並みをそのまま再現するなど意欲的な取り組みも【CEDEC2021】](https://www.gamebusiness.jp/article/2021/08/29/18991.html)
 * 2020/09/01 [月刊ブレーン2020年10月号 No.723](https://www.sendenkaigi.com/books/back-number-brain/detail.php?id=23365) 特集【バーチャル技術で進化 クリエイティブ表現と「体験」の場】
   * [新たな接点としてのバーチャルオフィスの可能性 | ブレーンデジタル版](https://mag.sendenkaigi.com/brain/202010/evolution-by-virtual-technology/019634.php)
   * [あなたにとっての〇〇の秋を教えてください。 | ブレーンデジタル版](https://mag.sendenkaigi.com/brain/202010/question/019602.php)
@@ -123,6 +124,8 @@
 
 ## コミュニティ活動(主催/運営)
 
+* 2021/11/24 [モバイル AR 開発者ミートアップ #0](https://www.youtube.com/watch?v=BQJ6h49iFvQ)
+* 2021/11/15-17 [XR Kaigi 2021](https://xrkaigi.com/2021/)
 * 2021/07/26 [WebXR Tech Tokyo #7 @ cluster](https://vrtokyo.connpass.com/event/218029/)
 * 2021/05/25 [WebXR Tech Tokyo #6 @ cluster](https://vrtokyo.connpass.com/event/211029/)
 * 2021/03/23 [WebXR Tech Tokyo #5 @ cluster](https://vrtokyo.connpass.com/event/204853/)
@@ -199,6 +202,9 @@
 
 ## 登壇
 
+* 2021/11/14 online: [XR Kaigi 2021前夜祭 見どころを語る～もぐラジオ XR Kaigi 出張版～](https://www.youtube.com/watch?v=vK_5aPixgZM)
+* 2021/09/18 online: [あなたの知らないSafariのExperimental Featuresの世界](https://speakerdeck.com/ikkou/experimental-features-in-safari-you-didnt-know) @ [iOSDC Japan 2021](https://iosdc.jp/2021/)
+* 2021/09/18 online: [iOSではじめるWebAR 2021](https://speakerdeck.com/ikkou/webar-in-ios-2021) @ [iOSDC Japan 2021](https://iosdc.jp/2021/)
 * 2021/08/25 Online: [withコロナに見るXR業界のイマ！](https://speakerdeck.com/nkjzm/xr-now-cedec2021) @ [CEDEC2021](https://cedec.cesa.or.jp/2021/session/detail/s605af54a8ee30)
 * 2021/08/25 Online: [コロナ禍における WebXR ( WebVR/WebAR ) のイマ！](https://speakerdeck.com/ikkou/recent-webxr-in-covid-19-pandemic) @ [CEDEC2021](https://cedec.cesa.or.jp/2021/session/detail/s6065160ee7ddc)
   * 関連: [コロナ禍でウェブのXR体験のニーズが急増―「WebXR」を用いたさまざまな事例の紹介―川越は町並みをそのまま再現するなど意欲的な取り組みも【CEDEC2021】](https://www.gamebusiness.jp/article/2021/08/29/18991.html)
