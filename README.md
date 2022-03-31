@@ -133,12 +133,18 @@
 
 ## コミュニティ活動(主催/運営)
 
+### 2021年
+
+* 2021/12/01-25 [WebXR ( WebVR/WebAR ) Advent Calendar 2021](https://adventar.org/calendars/6556)
 * 2021/11/24 [モバイル AR 開発者ミートアップ #0](https://www.youtube.com/watch?v=BQJ6h49iFvQ)
 * 2021/11/15-17 [XR Kaigi 2021](https://xrkaigi.com/2021/)
 * 2021/07/26 [WebXR Tech Tokyo #7 @ cluster](https://vrtokyo.connpass.com/event/218029/)
 * 2021/05/25 [WebXR Tech Tokyo #6 @ cluster](https://vrtokyo.connpass.com/event/211029/)
 * 2021/03/23 [WebXR Tech Tokyo #5 @ cluster](https://vrtokyo.connpass.com/event/204853/)
 * 2021/01/28 [WebXR Tech Tokyo #4 @ cluster](https://vrtokyo.connpass.com/event/198899/)
+
+### 2020年
+
 * 2020/12/08-10 [XR Kaigi 2020](https://xrkaigi.com/2020/)
 * 2020/10/28 [WebXR Tech Tokyo #3 @ cluster](https://vrtokyo.connpass.com/event/189470/)
 * 2020/08/31 [xR Developers Community Conference](https://vrtokyo.connpass.com/event/185043/)
@@ -146,6 +152,9 @@
 * 2020/06/29 [WebXR Tech Tokyo #1 @ cluster](https://vrtokyo.connpass.com/event/178319/)
 * 2020/06/19 [#ゆるxR VRとかARとかMRとかxRのあれこれについてゆるくおしゃべりする会](https://www.youtube.com/watch?v=2JvQBIia3Q4)
 * 2020/04/27 [WebXR Tech Tokyo #0 @ cluster](https://vrtokyo.connpass.com/event/171859/)
+
+### 2019年
+
 * 2019/12/17 [xR Creators Meetup #1 w/XR-Hub Cafe](https://vrtokyo.connpass.com/event/159003/)
 * 2019/12/03-04 [XR Kaigi 2019](https://xrkaigi.com/2019/)
 * 2019/12/07 [xR Tech Tokyo #18 @ ソフトバンク](https://vrtokyo.connpass.com/event/151017/)
@@ -164,6 +173,9 @@
 * 2019/02/17 [xR Tech Tokyo #14 @ メルカリ](https://vrtokyo.connpass.com/event/114566/)
 * 2019/01/29 [Tokyo Project North Star Meetup](https://vrtokyo.connpass.com/event/111295/)
 * 2019/01/21 [Mercari CES 2019 報告会](https://connpass.com/event/112931/)
+
+### 2018年
+
 * 2018/12/18 [XR Monetization Meetup](https://synamon.connpass.com/event/111151/)
 * 2018/12/17 [全8回『ARの教科書』輪読会 @ cluster. #7](https://vrtokyo.connpass.com/event/112811/)
 * 2018/12/14 [Emscripten & WebAssembly night !! #6](https://emsn.connpass.com/event/102303/)
@@ -179,6 +191,9 @@
 * 2018/06/24 [xR Tech Tokyo #10 @ メルカリ](https://vrtokyo.connpass.com/event/86277/)
 * 2018/03/04 [xR Tech Tokyo #9 @ アカツキ](https://vrtokyo.connpass.com/event/77042/)
 * 2018/01/24 [Mercari CES 2018 報告会](https://connpass.com/event/76965/)
+
+### 2017年
+
 * 2017/12/22 [メルカリ新研究開発組織オープニングイベント](https://mercari.connpass.com/event/74605/)
 * 2017/12/17 [Mercari AR Hackathon #0](https://vrtokyo.connpass.com/event/71473/)
 * 2017/11/19 [xR Tech Tokyo #8](https://vrtokyo.connpass.com/event/67550/)
@@ -195,6 +210,9 @@
 * 2017/01/28 [VR Tech Tokyo #5 @ アカツキ](https://vrtokyo.connpass.com/event/45922/)
 * 2017/01/15 [VR Funhouse MODthon](https://vrtokyo.connpass.com/event/46568/)
 * 2017/01/14 [シン・Web VRとか文化祭](https://html5j-webplat.connpass.com/event/47239/)
+
+### 2016年
+
 * 2016/12/21 [emscripten night !! #2](https://emsn.connpass.com/event/42375/)
 * 2016/12/20 [VR Funhouse MODthon 勉強会](https://vrtokyo.connpass.com/event/46509/)
 * 2016/11/29 [TOKYO A-Framer Meetup](https://connpass.com/event/43707/)
@@ -207,9 +225,14 @@
 * 2016/05/26 [VR Tech Tokyo #1](https://vrtokyo.connpass.com/event/30849/)
 * 2016/04/19 [Meguro.es #3 in Drecom](https://meguroes.connpass.com/event/28320/)
 * 2016/02/10 [Meguro.es #2 in Drecom](https://meguroes.connpass.com/event/25018/)
+
+### 2015年
+
 * 2015/12/08 [Meguro.es #1 in Drecom](https://meguroes.connpass.com/event/21510/)
 
 ## 登壇
+
+### 2021年
 
 * 2021/11/14 online: [XR Kaigi 2021前夜祭 見どころを語る～もぐラジオ XR Kaigi 出張版～](https://www.youtube.com/watch?v=vK_5aPixgZM)
 * 2021/09/18 online: [あなたの知らないSafariのExperimental Featuresの世界](https://speakerdeck.com/ikkou/experimental-features-in-safari-you-didnt-know) @ [iOSDC Japan 2021](https://iosdc.jp/2021/)
@@ -221,6 +244,9 @@
 * 2021/05/25 Online: [Recent Feature Topics on WebXR - 2021-05-24](https://speakerdeck.com/ikkou/recent-feature-topics-on-webxr-2021-05-24) @ [WebXR Tech Tokyo #6 @ cluster](https://vrtokyo.connpass.com/event/211029/)
 * 2021/03/05 Online: XR × ファッションビジネスの可能性 @ [CGWORLD デザインビズカンファレンス 2021春](https://cgworld.jp/special/cgwviz2021/spring/schedule/zozo-technologies-inc/)
 * 2021/01/18 Online: [Future Tech Meetup #3「CES2021から見るXR業界の展望」](https://spwn.jp/events/21011819-Mogura)
+
+### 2020年
+
 * 2020/12/09 Online: [もぐラジオ特別編〜XR Kaigiの見どころを紹介しながら2020年のXR業界を語る！〜](https://xrkaigi.com/2020/session/cf46908wq124.html) @ [XR Kaigi 2020](https://xrkaigi.com/2020/)
 * 2020/10/28 Online: Recent Topics in WebXR @ [WebXR Tech Tokyo #3 @ cluster](https://vrtokyo.connpass.com/event/189470/)
 * 2020/09/20 Online: [iOSではじめるWebAR](https://speakerdeck.com/ikkou/webar-in-ios) @ [iOSDC JAPAN 2020](https://iosdc.jp/2020/)
@@ -232,6 +258,9 @@
 * 2020/04/30 Online: [【解説】第2章 WebXRの現状確認 2020 Spring](https://speakerdeck.com/ikkou/zozotechbook1-ch02-webxr) @ [#技術書典 頒布本「ZOZO TECH BOOK」解説会 Vol.2](https://zozotech-inc.connpass.com/event/173609/)
 * 2020/04/13 Online: [学生起業家がXRで起業するために知っておきたいこと](https://svmeetup.connpass.com/event/173153/)
 * 2020/01/16 [AR/VR/MR最新動向がわかる CES2020報告会](https://ces2020-txm32.peatix.com/)
+
+### 2019年
+
 * 2019/12/12 [The past and future of WebAR - The WebXR Device API was shipped in Chrome 79](https://speakerdeck.com/ikkou/the-past-and-future-of-webar-the-webxr-device-api-was-shipped-in-chrome-79) @ [WebAR TOKYO #01](https://webar-tokyo.connpass.com/event/156371/)
 * 2019/10/05 [xRどうでしょう祭 FESTIVAL in CEDEC+SAPPORO 2019](https://sapporo.cedec.jp/session/ss10/) モデレーター @ [CEDEC+SAPPORO 2019](https://sapporo.cedec.jp/)
   * 関連: [SIE吉田氏を始めVR、AR、MRのキーパーソンが札幌に集結！最新技術の話題から次世代PSのVRにも触れられた“xRどうでしょう祭”【CEDEC+SAPPORO 2019】](https://www.famitsu.com/news/201910/11184785.html)
@@ -245,6 +274,9 @@
 * 2019/01/23 [XR(AR/VR/MR) 領域を中心とした CES 2019 の技術動向](https://speakerdeck.com/ikkou/smartphone-and-beyond-2019) @ [Smartphone and Beyond 2019 vol.1](https://sab.connpass.com/event/114695/)
 * 2019/01/21 [写真で振り返る CES 2019](https://speakerdeck.com/ikkou/look-back-on-ces-2019) @
 [Mercari CES 2019 報告会](https://connpass.com/event/112931/)
+
+### 2018年
+
 * 2018/06/11 ネットワーク産業論 #9 講師 @ 慶應義塾大学 湘南藤沢キャンパス
 * 2018/05/21 働き方を壊す！〜もっと自由に、自分でデザインする〜 @ [“破壊”からはじめよう 〜 こわして、つくる、新しい未来。Vol.1 〜](https://mercari.connpass.com/event/86039/)
   * 関連: [なぜメルカリにスペシャリストが集まるのか？本業も副業も区別しない「R4D」の自由な働き方](https://logmi.jp/business/articles/295747)
@@ -257,11 +289,17 @@
 * 2018/03/24 SXSWとVRDCに行ってきた話あるいは米国でも東雲めぐさんの放送をリアルタイムで観ていた話 @ [ヴァーチャルLT会](https://cluster.mu/e/421dbdfc-32c0-11ea-ba92-0ef3638656a6)
 * 2018/03/19 Webの未来を語ろう 2018
   * 関連: [VR、AR、MR……各領域のプロフェッショナルが語るxR技術の最先端──Webの未来を語ろう 2018](https://html5experts.jp/tokutoku393/25205/)
+
+### 2017年
+
 * 2017/10/28 [WebVRの現状確認](https://speakerdeck.com/ikkou/webvr-now-2017) @ Japan VR Fest 開発者会 2017
   * 関連: [2017 JapanVR Fest開発者会 #JVRFest](https://togetter.com/li/1165423)
 * 2017/09/15 [WebVR with Windows Mixed Reality](https://speakerdeck.com/ikkou/webvr-with-windows-mixed-reality) @ [ToKyoto.js ― Kyoto.js in Tokyo](https://kyotojs.connpass.com/event/64310/)
 * 2017/06/10 [本格 WebGL 基礎スクール](https://webgl.souhonzan.org/entry/?v=0893) プラスワン講義「ブラウザでここまで出来る！A-FrameではじめるWebVR」
 * 2017/02/07 [Introducing WebAR using awe.js](https://speakerdeck.com/ikkou/introducing-webar-using-awe-dot-js) @ [Meguro.es #8 @ アカツキ](https://meguroes.connpass.com/event/47839/)
+
+### 2016年
+
 * 2016/11/28 [Introducing awesome-aframe](https://speakerdeck.com/ikkou/introducing-awesome-aframe) @ [TOKYO A-Framer Meetup](https://connpass.com/event/43707/)
 * 2016/10/29 WebVRの現状確認 @ JapanVR Fest（旧オキュフェス）開発者会 皆の10分を繋げてVRの未来を作る
 * 2016/09/01 [Introducing WebVR API 1.0 & A-Frame Updates](https://speakerdeck.com/ikkou/introducing-webvr-api-1-dot-0-and-a-frame-updates-number-gotandajs) @ [Gotanda.js #5](https://gotandajs.connpass.com/event/33454/)
@@ -269,6 +307,9 @@
 * 2016/04/20 [How to enjoy Web VR](https://speakerdeck.com/ikkou/how-to-enjoy-web-vr) @ [Meguro.es #3 in Drecom](https://meguroes.connpass.com/event/28320/)
 * 2016/03/11 Introducing A-FRAME @ [Gotanda.js #3 in freee](https://gotandajs.connpass.com/event/26027/)
 * 2016/02/12 [日本語でCSSを書きたい](http://meguroes.connpass.com/event/25018/)
+
+### 2013年
+
 * 2013/03/09 マルチデバイス時代の新常識 レスポンシブWebデザインの今と未来 @ SwapSkills doubbble(9)
   * 関連: [SwapSkills Doubbble（Vol.9）「マルチデバイス時代の新常識 レスポンシブWebデザインの今とこれから」イベントレポート](http://gihyo.jp/design/serial/01/swapskills/0044)
 
