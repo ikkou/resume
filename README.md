@@ -97,6 +97,7 @@
 * 2019/05/24 [メルカリがスマートグラス向け｢メルカリレンズ｣β版公開へ【最速インプレ】](https://www.businessinsider.jp/post-191231) @ BUSINESS INSIDER
 * 2019/05/01 [XR時代のCtoCマーケットプレイスとは？](https://hillslife.jp/series/%e3%83%86%e3%83%83%e3%82%af%e3%83%bb%e3%82%ab%e3%83%b3%e3%83%91%e3%83%8b%e3%83%bc%e3%80%8c%e3%83%a1%e3%83%ab%e3%82%ab%e3%83%aa%e3%80%8d%e3%81%8c%e3%81%a4%e3%81%8f%e3%82%8b%e3%83%a9%e3%82%a4%e3%83%95/creative-value-for-everyone/) @ HILLS LIFE
 * 2019/01/11 [メルカリ、“指差し”で商品価格表示する新技術。ARグラスから出品へ #CES2019](https://www.watch.impress.co.jp/docs/news/1164217.html) @ Impress Watch
+* 2018/07/20 特集 みんなの目元にVR 第2部:コンシューマー用途「仮想空間で就職面接」コメント @ 日経エレクトロニクス 2018年8月号
 * 2018/04/24 [メルカリ、仮想空間で面接　VRエンジニア選考で　「物理的に会う必要性を問う」](https://www.itmedia.co.jp/news/articles/1804/24/news070.html) @ ITmedia NEWS
 * 2018/02/14 [メルカリが「R4D」設立で、技術基盤を強化へ――オープンイノベーションの野望はどこまで広がる？](https://next.rikunabi.com/journal/20180214_p01_iq/) @ CodeIQ MAGAZINE
 
