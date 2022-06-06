@@ -37,6 +37,10 @@
 * XR Specialist
 * ライブ配信エンジニア
 
+#### 外部露出
+
+* 2022/06/06 [ZOZOCOSMEがARメイク実装、ユーザー視点で３つの強化を進め取扱高100億円へ](https://beautytech.jp/n/n618c9426d421)
+
 ### 株式会社ZOZOテクノロジーズ (ZOZO Technologies, Inc.)
 
 2019/11/01 ~ 2021/09/30
