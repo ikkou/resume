@@ -39,6 +39,7 @@
 
 #### 外部露出
 
+* 2022/06/15 [【動画】ZOZOTOWNのARメイク機能を使った戦略とその解説](https://www.perfectcorp.com/ja/business/blog/makeup/webinar-strategy-using-ZOZOTOWN-AR-make-up-function-ja)
 * 2022/06/06 [ZOZOCOSMEがARメイク実装、ユーザー視点で３つの強化を進め取扱高100億円へ](https://beautytech.jp/n/n618c9426d421)
 
 ### 株式会社ZOZOテクノロジーズ (ZOZO Technologies, Inc.)
