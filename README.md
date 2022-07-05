@@ -22,7 +22,7 @@
 
 ### Role
 
-* 2021-2022 Microsoft MVP for Windows Development (Mixed Reality)
+* 2022-2023 Microsoft MVP for Windows Development (Mixed Reality)
 * Founder & Organizer of `xR Tech Tokyo` and `WebXR Tech Tokyo`
 * Core member of XR Kaigi
 * Founder of Meguro.es
