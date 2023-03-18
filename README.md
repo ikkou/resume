@@ -25,8 +25,6 @@
 * 2022-2023 Microsoft MVP for Windows Development (Mixed Reality)
 * Founder & Organizer of `xR Tech Tokyo` and `WebXR Tech Tokyo`
 * Core member of XR Kaigi
-* Founder of Meguro.es
-* Founder of emscripten night !!
 
 ## 職務経歴
 
@@ -34,13 +32,17 @@
 
 2021/10/01 ~ present
 
-* XR Specialist
+* Senior XR Specialist
 * ライブ配信エンジニア
 
 #### 外部露出
 
 * 2022/06/15 [【動画】ZOZOTOWNのARメイク機能を使った戦略とその解説](https://www.perfectcorp.com/ja/business/blog/makeup/webinar-strategy-using-ZOZOTOWN-AR-make-up-function-ja)
 * 2022/06/06 [ZOZOCOSMEがARメイク実装、ユーザー視点で３つの強化を進め取扱高100億円へ](https://beautytech.jp/n/n618c9426d421)
+
+#### ZOZO TECH BLOG
+
+* 2023/01/23 [CES 2023 参加レポート - 3年ぶりの現地参加](https://techblog.zozo.com/entry/ces-2023)
 
 ### 株式会社ZOZOテクノロジーズ (ZOZO Technologies, Inc.)
 
@@ -138,6 +140,16 @@
   * ARKit@iOS/iPadOS, ARCore@Android 両対応 Keep Distance Ruler Web 派生版
 
 ## コミュニティ活動(主催/運営)
+
+### 2023年
+
+* 2023/04/06 [LODGE XR Talk VOL.2](https://lodge-xr-talk-01.peatix.com/)
+* 2023/03/02 [LODGE XR Talk VOL.1](https://lodge-xr-talk-01.peatix.com/)
+
+### 2022年
+
+* 2022/12/01-25 [WebXR ( WebVR/WebAR ) Advent Calendar 2022](https://adventar.org/calendars/7401)
+* 2022/12/15-17 [XR Kaigi 2022](https://xrkaigi.com/)
 
 ### 2021年
 
@@ -237,6 +249,19 @@
 * 2015/12/08 [Meguro.es #1 in Drecom](https://meguroes.connpass.com/event/21510/)
 
 ## 登壇
+
+### 2023年
+
+* 2023/03/02 hybrid: [LODGE XR Talk VOL.1](https://lodge-xr-talk-01.peatix.com/)
+* 2023/01/25 hybrid: [LODGE NFT Talk vol.3「XRカルチャーとNFT」](https://lodge-nft-talk-vol3.peatix.com/)
+* 2023/01/19 online: [CES2023 オンライン報告会　～XR関係者による本音トーク！～](https://www.youtube.com/watch?v=Sf4-yN01LFo)
+
+### 2022年
+
+* 2022/09/11 hybrid: [あなたの知らないARの可能性を空間レベルで拡げるVPSの世界 / The World of VPS](https://speakerdeck.com/ikkou/the-world-of-vps) @ [iOSDC Japan 2022](https://iosdc.jp/2022/)
+* 2022/08/24 online: [WebXR 最前線 2022 ~ メタバースとWeb3を添えて / WebXR Frontline 2022](https://speakerdeck.com/ikkou/webxr-frontline-2022) @ [CEDEC2022](https://cedec.cesa.or.jp/2022/session/detail/42.html)
+* 2022/08/24 online: [メタバースの激流とXR業界のイマ / The Metaverse Torrent and the XR Industry Today](https://speakerdeck.com/ikkou/the-metaverse-torrent-and-the-xr-industry-today) @ [CEDEC2022](https://cedec.cesa.or.jp/2022/session/detail/162.html)
+* 2022/05/26 online: [WebXR Tech Talk](https://build.microsoft.com/en-US/archives/931f8992-8a74-4ebc-8b2e-cfda470602da) @ Microsoft Build 2022
 
 ### 2021年
 
