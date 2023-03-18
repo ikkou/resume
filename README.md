@@ -258,6 +258,7 @@
 
 ### 2022年
 
+* 2022/12/15 online: [WebXR Tech Tokyo + Babylon.js 勉強会](https://www.xrkaigi.com/pages/sessions?session_id=XRK2022-S-070) @ XR Kaigi 2022
 * 2022/09/11 hybrid: [あなたの知らないARの可能性を空間レベルで拡げるVPSの世界 / The World of VPS](https://speakerdeck.com/ikkou/the-world-of-vps) @ [iOSDC Japan 2022](https://iosdc.jp/2022/)
 * 2022/08/24 online: [WebXR 最前線 2022 ~ メタバースとWeb3を添えて / WebXR Frontline 2022](https://speakerdeck.com/ikkou/webxr-frontline-2022) @ [CEDEC2022](https://cedec.cesa.or.jp/2022/session/detail/42.html)
 * 2022/08/24 online: [メタバースの激流とXR業界のイマ / The Metaverse Torrent and the XR Industry Today](https://speakerdeck.com/ikkou/the-metaverse-torrent-and-the-xr-industry-today) @ [CEDEC2022](https://cedec.cesa.or.jp/2022/session/detail/162.html)
