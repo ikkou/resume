@@ -2,7 +2,13 @@
 
 ## 基本情報
 
-諸星 一行 ( IKKOU Morohoshi ) a.k.a いっこう
+__諸星 一行 ( IKKOU Morohoshi ) a.k.a いっこう__
+
+副業の相談【__受付中__】
+
+* XR 関連の登壇・講演、技術コンサルティング
+* 技術広報ロールに関連する立ち上げ・導入・運用支援
+* その他、要相談
 
 ### Social
 
@@ -22,9 +28,10 @@
 
 ### Role
 
-* 2022-2023 Microsoft MVP for Windows Development (Mixed Reality)
+* 2024-2025 Microsoft MVP for Windows Development (Mixed Reality)
 * Founder & Organizer of `xR Tech Tokyo` and `WebXR Tech Tokyo`
-* Core member of XR Kaigi
+* Supporter of XR Kaigi
+* Moderator of LODGE XR Talk
 
 ## 職務経歴
 
@@ -32,17 +39,35 @@
 
 2021/10/01 ~ present
 
-* Senior XR Specialist
-* ライブ配信エンジニア
+* 技術本部 技術戦略部 ディレクター
+* 技術本部 技術戦略部 Developer Engagement ブロック ブロック長
+* 技術本部 技術戦略部 創造開発ブロック ブロック長
 
 #### 外部露出
+
+##### GitHub × ZOZOTOWN コラボレーション関連
+
+* 2024/12/19 [ZOZO、「GitHub」コラボが想定以上の人気 エンジニアが企画を発案](https://netkeizai.com/articles/gallery/13207/1)
+
+##### Developer Engagement ブロック関連
+
+* 2024/12/04 [開発者体験ブランド力が高い企業に迫る！ - ー社外向けの発信だけでなく、社内向け施策も担う「縁の下の力持ち」ーZOZOのDeveloper Engagementブロック -](https://note.com/ctoa_ja/n/nb375bcc8aaf7)
+* 2024/10/30 [「DevRelの目的は、採用ではなくブランディング」ZOZOのDevRelが目指すのは、業界への恩返し](https://type.jp/et/feature/27072/)
+* 2024/08/23 [ZOZOが取り組むエンジニア支援の取り組み、注目度が集まる「DevRel」とは？](https://news.mynavi.jp/techplus/article/20240823-3008160/)
+
+##### ZOZOCOSME ARメイク関連
 
 * 2022/06/15 [【動画】ZOZOTOWNのARメイク機能を使った戦略とその解説](https://www.perfectcorp.com/ja/business/blog/makeup/webinar-strategy-using-ZOZOTOWN-AR-make-up-function-ja)
 * 2022/06/06 [ZOZOCOSMEがARメイク実装、ユーザー視点で３つの強化を進め取扱高100億円へ](https://beautytech.jp/n/n618c9426d421)
 
 #### ZOZO TECH BLOG
 
+* 2024/01/24 [CES 2024 参加レポート - コロナ禍以前の活況を取り戻した CES](https://techblog.zozo.com/entry/ces-2024)
 * 2023/01/23 [CES 2023 参加レポート - 3年ぶりの現地参加](https://techblog.zozo.com/entry/ces-2023)
+
+#### ZOZO DEVELOPERS BLOG
+
+* 2024/05/28 [ZOZOはなぜDevRelの専門組織を立ち上げたのか？スタッフが語る1年間の振り返り](https://technote.zozo.com/n/n1e8828f6bbb7)
 
 ### 株式会社ZOZOテクノロジーズ (ZOZO Technologies, Inc.)
 
@@ -250,8 +275,44 @@
 
 ## 登壇
 
+### 2025年
+
+* 2025/02/13 offline: [「Apple Vison Pro」登場で何か変わるのか？ ITエンジニアとXRの可能性を語ろう](https://event.shoeisha.jp/devsumi/20250213/session/5542) @ Developers Summit 2025
+* 2025/01/17 hybrid: [LODGE XR Talk Vol.23](https://lodge-xr-talk-23.peatix.com/view)
+
+### 2024年
+
+* 2024/12/21 hybrid: [LODGE XR Talk Vol.22](https://lodge-xr-talk-22.peatix.com/view)
+* 2024/12/13 offline: コミュニティセッション LODGE XR Talk @ XR Kaigi 2024
+* 2024/12/10 online: [XR Kaigi 2024 前夜祭スペース](https://x.com/XRKaigi/status/1865978868508880935)
+* 2024/12/04 offiline: [Forging the Immersive Web through Real-Time Graphics](https://asia.siggraph.org/2024/presentation/?id=bof_136&sess=sess246) (コミュニティパートのみ) @ SIGGRAPH Asia 2024 Tokyo
+* 2024/11/28 hybrid: [LODGE XR Talk Vol.21](https://lodge-xr-talk-21.peatix.com/view)
+* 2024/11/27 offline: [GitHub Copilot全社導入のその後とGitHub×ZOZOTOWNコラボレーションの舞台裏 / GitHub ZOZOTOWN](https://speakerdeck.com/ikkou/github-zozotown) @ [GitHub Universe Recap 東京](https://github.registration.goldcast.io/events/f3d6dfde-6341-4a07-a0d0-c93a03ff540e)
+* 2024/10/29 hybrid: [LODGE XR Talk Vol.20](https://lodge-xr-talk-20.peatix.com/view)
+* 2024/09/30 hybrid: [LODGE XR Talk Vol.19](https://lodge-xr-talk-19.peatix.com/view)
+* 2024/08/27 hybrid: [LODGE XR Talk Vol.18](https://lodge-xr-talk-18.peatix.com/view)
+* 2024/07/23 hybrid: [LODGE XR Talk Vol.17](https://lodge-xr-talk-17.peatix.com/view)
+* 2024/07/04 offline: visionOSの登場で花開くWebXRの現状確認 2024 夏 @ [enXross 2nd サイドステージ](https://peatix.com/event/3925266)
+* 2024/07/02 online: [【子育て x XR ウェビナー】 XRで子育てが変わる！？ 子育てとテクノロジーの意外な交差点](https://mogura0702.peatix.com/)
+* 2024/06/22 hybrid: [LODGE XR Talk Vol.16](https://lodge-xr-talk-16.peatix.com/view)
+* 2024/05/27 hybrid: [LODGE XR Talk Vol.15](https://lodge-xr-talk-15.peatix.com/view)
+* 2024/04/16 hybrid: [LODGE XR Talk Vol.14](https://lodge-xr-talk-14.peatix.com/view)
+* 2024/03/19 hybrid: [LODGE XR Talk Vol.13](https://lodge-xr-talk-13.peatix.com/view)
+* 2024/02/13 hybrid: [LODGE XR Talk Vol.12](https://lodge-xr-talk-12.peatix.com/view)
+* 2024/01/24 hybrid: [LODGE XR Talk Vol.11](https://lodge-xr-talk-11.peatix.com/view)
+
 ### 2023年
 
+* 2023/12/09 hybrid: [LODGE XR Talk Vol.10](https://lodge-xr-talk-10.peatix.com/view)
+* 2023/11/14 hybrid: [LODGE XR Talk Vol.9](https://lodge-xr-talk-09.peatix.com/view)
+* 2023/10/18 online: [WebXRの現状確認 2023 Autumn / Check the current status of WebXR 2023 Autumn](https://speakerdeck.com/ikkou/check-the-current-status-of-webxr-2023-autumn) @ [PWA Night vol.56](https://pwanight.connpass.com/event/298254/)
+* 2023/10/10 hybrid: [LODGE XR Talk Vol.8](https://lodge-xr-talk-08.peatix.com/view)
+* 2023/09/05 hybrid: [LODGE XR Talk Vol.7](https://lodge-xr-talk-07.peatix.com/view)
+* 2023/08/11 hybrid: [LODGE XR Talk Vol.6](https://lodge-xr-talk-06.peatix.com/view)
+* 2023/07/13 hybrid: [LODGE XR Talk Vol.5](https://lodge-xr-talk-05.peatix.com/view)
+* 2023/06/15 hybrid: [LODGE XR Talk Vol.4](https://lodge-xr-talk-04.peatix.com/view)
+* 2023/05/09 hybrid: [LODGE XR Talk Vol.3](https://lodge-xr-talk-03.peatix.com/view)
+* 2023/04/06 hybrid: [LODGE XR Talk Vol.2](https://lodge-xr-talk-02.peatix.com/view)
 * 2023/03/02 hybrid: [LODGE XR Talk VOL.1](https://lodge-xr-talk-01.peatix.com/)
 * 2023/01/25 hybrid: [LODGE NFT Talk vol.3「XRカルチャーとNFT」](https://lodge-nft-talk-vol3.peatix.com/)
 * 2023/01/19 online: [CES2023 オンライン報告会　～XR関係者による本音トーク！～](https://www.youtube.com/watch?v=Sf4-yN01LFo)
@@ -348,6 +409,7 @@
 
 ## 執筆
 
+* 2024/08/23 iOSDC Japan 2024 パンフレット寄稿『できる！技適特例申請！』、『日本語で詳説！Apple Vision Proにおけるa11yの取り組み！』
 * 2020/03/07 技術同人誌『ZOZO TECH BOOK VOL.1』 第2章 WebXRの現状確認 2020 Spring （技術書典 応援祭）
 * 2019/09/22 技術同人誌『WebXRの現状確認 2019 Autumn』（技術書典7）
 * 2019/04/14 技術同人誌『ぷれぜんすっ！』（技術書典6）
