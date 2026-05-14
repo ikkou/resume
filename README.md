@@ -28,7 +28,8 @@ __諸星 一行 ( IKKOU Morohoshi ) a.k.a いっこう__
 
 ### Role
 
-* 2024-2025 Microsoft MVP for Windows Development (Mixed Reality)
+* HHKBエバンジェリスト
+* Microsoft MVP for Windows Development (2020-2025)
 * Founder & Organizer of `xR Tech Tokyo` and `WebXR Tech Tokyo`
 * Supporter of XR Kaigi
 * Moderator of LODGE XR Talk
@@ -44,6 +45,13 @@ __諸星 一行 ( IKKOU Morohoshi ) a.k.a いっこう__
 * 技術本部 技術戦略部 創造開発ブロック ブロック長
 
 #### 外部露出
+
+##### HHKB × ZOZOTOWN コラボレーション関連
+
+* 2025/12/23 [累計出荷台数75万台突破。熱狂の「HHKBユーザーミートアップ Vol.9」で見えた、原点回帰と新たな挑戦、そして30周年への助走](https://happyhackingkb.com/jp/life/hhkb_life125.html)
+* 2025/12/18 [ついにファッション界へ進出!?　「HHKBユーザーミートアップ Vol.9」濃厚イベントレポート](https://www.itmedia.co.jp/pcuser/articles/2512/18/news074_5.html)
+* 2025/12/08 [『HHKB×ZOZOTOWN限定アパレル』『HHKB Professional』『スマートバスマット』など豪華グッズが当たるキャンペーン](https://type.jp/et/feature/29848/)
+* 2025/11/18 [HHKBとZOZOTOWNがコラボレーション！](https://www.pfu.ricoh.com/news/2025/news251118.html)
 
 ##### GitHub × ZOZOTOWN コラボレーション関連
 
@@ -62,6 +70,9 @@ __諸星 一行 ( IKKOU Morohoshi ) a.k.a いっこう__
 
 #### ZOZO TECH BLOG
 
+* 2026/01/22 [CES 2026 現地レポート ── XR Tech、Fashion Tech、そしてBeauty Techの現在地](https://techblog.zozo.com/entry/ces-2026)
+* 2025/06/12 [WWDC25現地参加レポート](https://techblog.zozo.com/entry/wwdc25)
+* 2025/01/22 [CES 2025 現地レポート: XRとFashion Techの未来を探る](https://techblog.zozo.com/entry/ces-2025)
 * 2024/01/24 [CES 2024 参加レポート - コロナ禍以前の活況を取り戻した CES](https://techblog.zozo.com/entry/ces-2024)
 * 2023/01/23 [CES 2023 参加レポート - 3年ぶりの現地参加](https://techblog.zozo.com/entry/ces-2023)
 
