@@ -30,8 +30,6 @@ __諸星 一行 ( IKKOU Morohoshi ) a.k.a いっこう__
 
 * HHKBエバンジェリスト
 * Microsoft MVP for Windows Development (2020-2025)
-* Founder & Organizer of `xR Tech Tokyo` and `WebXR Tech Tokyo`
-* Supporter of XR Kaigi
 * Moderator of LODGE XR Talk
 
 ## 職務経歴
